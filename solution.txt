@@ -1,5 +1,5 @@
 /*
-*	Author: Wenbo Yuan
+*	Author: thequestion
 *	We can apply dynamic programming to this problem.
 *	The optimal solution can be:
 *	C[n]=0			if n=0;
